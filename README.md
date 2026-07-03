@@ -148,15 +148,6 @@ http://localhost:8080/UrbanEats/
 
 ## 📸 Screenshots
 
-
-
-### Login Page
-![Login](screenshots/login.png)
-
-### Register Page
-![Register](screenshots/register.png)
-
-
 ## Login Page
 
 <img src="screenshots/login.png" width="800"/>
